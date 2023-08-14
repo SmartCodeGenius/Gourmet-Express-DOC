@@ -1,7 +1,7 @@
 # **Gourmet Express**
 
 
-    ### Gourmet Express é um sistema de cardápio online voltado para clientes em estabelecimentos.
+### Gourmet Express é um sistema de cardápio online voltado para clientes em estabelecimentos.
 ### Dentro do sistema, compõe-se o aplicativo mobile, para clientes, e o web-app, para gerentes e funcionários dos estabelecimentos
 
 
